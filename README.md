@@ -1,4 +1,4 @@
-# Responsive Portfolio Website
+# [Practice] Responsive Portfolio Website 
 
 This repository contains a practice responsive portfolio website built using React, CSS, and Figma. The project was developed following a tutorial by Code Complete on YouTube.
 
